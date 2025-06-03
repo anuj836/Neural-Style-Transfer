@@ -38,8 +38,8 @@ def imshow(tensor, title=None):
     plt.show()
 
 # LOAD IMAGES
-content_img = image_loader("content.jpg")
-style_img = image_loader("style.jpg", shape=content_img.shape[-2:])
+content_img = image_loader("content.png")
+style_img = image_loader("style.png", shape=content_img.shape[-2:])
 
 # DISPLAY IMAGES
 imshow(content_img, title="Content Image")
