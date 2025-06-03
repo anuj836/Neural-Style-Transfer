@@ -6,6 +6,8 @@
 
 *INTERN ID* : CT04DL900
 
+*DOMAIN* : AI
+
 *DURATION* : 4 weeks
 
 *MENTOR* : NEELA SANTOSH
